@@ -7,7 +7,7 @@ name = "pypi"
 tqdm = "*"
 notebook = "==7.1.2"
 openai = "*"
-elasticsearch = "*"
+elasticsearch = "==8.4.3"
 
 [dev-packages]
 
